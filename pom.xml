@@ -24,6 +24,10 @@
         <module>netty-demo-2-01</module>
         <module>netty-demo-2-03</module>
         <module>netty-demo-2-04</module>
+        <module>netty-demo-2-09</module>
+        <module>netty-demo-2-10</module>
+        <module>netty-demo-2-11</module>
+        <module>netty-demo-2-12</module>
     </modules>
 
     <properties>
